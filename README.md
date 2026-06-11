@@ -1,2 +1,2 @@
 # tabledata
-Dumped tabledata from the OG FusionFall clients
+FusionFall tabledata for Russian custom server
