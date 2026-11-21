@@ -1,4 +1,15 @@
 {
+    "NanoCapsules": [
+        { "CrateID": 2294, "Nano": 45 },
+        { "CrateID": 2295, "Nano": 46 },
+        { "CrateID": 2296, "Nano": 47 },
+        { "CrateID": 2305, "Nano": 49 },
+        { "CrateID": 2306, "Nano": 56 },
+        { "CrateID": 2307, "Nano": 55 },
+        { "CrateID": 2317, "Nano": 59 },
+        { "CrateID": 2318, "Nano": 60 },
+        { "CrateID": 2319, "Nano": 61 }
+    ],
     "CrateDropChances": {
         "0": {
             "CrateDropChanceID": 0,

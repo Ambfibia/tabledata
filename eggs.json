@@ -314,6 +314,20 @@
       "EffectId": 0,
       "Id": 52,
       "Regen": 30
+    },
+    {
+      "DropCrateId": 181,
+      "Duration": 0,
+      "EffectId": 0,
+      "Id": 139,
+      "Regen": 30
+    },
+    {
+      "DropCrateId": 182,
+      "Duration": 0,
+      "EffectId": 0,
+      "Id": 140,
+      "Regen": 30
     }
   ],
   "Eggs": {
@@ -2680,6 +2694,20 @@
       "iX": 697105,
       "iY": 88144,
       "iZ": -3583
+    },
+    "444": {
+      "iMapNum": 20,
+      "iType": 65,
+      "iX": 730000,
+      "iY": 89600,
+      "iZ": -5306
+    },
+    "445": {
+      "iMapNum": 20,
+      "iType": 61,
+      "iX": 734100,
+      "iY": 88500,
+      "iZ": -5137
     },
     "45": {
       "iType": 31,
